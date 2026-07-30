@@ -82,7 +82,7 @@ document.querySelectorAll(".acto").forEach(acto => {
 });
 
 const fotosSorpresa = [
-  { archivo: "img/Reinas.jpg", fecha: "2026-07-23T12:30:00" },
+  { archivo: "img/Reinas.jpg", fecha: "2026-08-13T00:00:00" },
   { archivo: "img/sorpresa2.jpg", fecha: "2026-08-14T00:00:00" },
   { archivo: "img/sorpresa3.jpg", fecha: "2026-08-15T00:00:00" },
   { archivo: "img/sorpresa4.jpg", fecha: "2026-08-16T00:00:00" },
